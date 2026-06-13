@@ -1,0 +1,249 @@
+[
+    {
+        "id": "pm_kisan",
+        "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+        "name_hi": "प्रधानमंत्री किसान सम्मान निधि",
+        "name_ta": "பிரதான் மந்திரி கிசான் சம்மான் நிதி",
+        "name_bn": "প্রধানমন্ত্রী কিষান সম্মান নিধি",
+        "name_mr": "पंतप्रधान किसान सन्मान निधी",
+        "description": "A central sector scheme to provide income support to all landholding farmers' families to supplement their financial needs for procuring various inputs related to agriculture and allied activities as well as domestic needs.",
+        "benefits": "Financial benefit of Rs. 6000/- per year in three equal installments of Rs. 2000 each, directly into the bank accounts of eligible farmers.",
+        "eligibility_criteria": [
+            "Must be a landholding farmer family.",
+            "Must be an Indian citizen.",
+            "Exclusions: Institutional landholders, farmer families holding constitutional posts, active or retired government employees, income tax payers, professionals like doctors/engineers."
+        ],
+        "required_documents": [
+            "Aadhaar Card (Aadhar)",
+            "Bank Account Details (Passbook)",
+            "Land Ownership Documents (Khatauni / Khasra)",
+            "Mobile Number linked to Aadhaar"
+        ],
+        "application_process": "Apply through the official PM-KISAN portal (pmkisan.gov.in), CSCs (Common Service Centres), or state nodal officers.",
+        "persona": "farmer"
+    },
+    {
+        "id": "ayushman_bharat",
+        "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+        "name_hi": "आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना",
+        "name_ta": "ஆயுஷ்மான் பாரத் பிரதான் மந்திரி ஜன் ஆரோக்கிய யோஜனா",
+        "name_bn": "আয়ুষ্মান ভারত প্রধানমন্ত্রী জন আরোগ্য যোজনা",
+        "name_mr": "आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना",
+        "description": "A health insurance scheme aimed at providing health cover to poor and vulnerable families for secondary and tertiary care hospitalization.",
+        "benefits": "Health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization at empanelled hospitals. Free treatment.",
+        "eligibility_criteria": [
+            "Belong to poor and vulnerable families based on the Socio-Economic Caste Census (SECC) 2011 data.",
+            "Includes destitute/living on alms, manual scavenger families, primitive tribal groups, legally-released bonded labour.",
+            "No age or family size restrictions.",
+            "Families with low income or below poverty line (BPL)."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Active Mobile Number",
+            "PMJAY ID/Golden Card (if already registered)",
+            "Income Certificate (if not in SECC list)"
+        ],
+        "application_process": "Eligible families can visit empanelled hospitals or Common Service Centres (CSCs) for e-KYC and to get the Ayushman Card.",
+        "persona": "general"
+    },
+    {
+        "id": "pmay_g",
+        "name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+        "name_hi": "प्रधानमंत्री आवास योजना - ग्रामीण",
+        "name_ta": "பிரதான் மந்திரி ஆவாஸ் யோஜனா - கிராமீண்",
+        "name_bn": "প্রধানমন্ত্রী আবাস যোজনা - গ্রামীণ",
+        "name_mr": "पंतप्रधान आवास योजना - ग्रामीण",
+        "description": "Aims to provide a pucca house with basic amenities to all houseless households and those living in kutcha and dilapidated houses in rural areas.",
+        "benefits": "Financial assistance of Rs. 1.20 lakh in plain areas and Rs. 1.30 lakh in hilly/difficult areas for house construction. Additional support through convergence.",
+        "eligibility_criteria": [
+            "Must be a resident of a rural area.",
+            "Must be houseless or living in a kutcha house (0, 1 or 2 rooms with kutcha wall and roof).",
+            "Identified through SECC 2011 parameters and Gram Sabha validation.",
+            "Priority given to SC/ST, minorities, disabled persons, women-headed households."
+        ],
+        "required_documents": [
+            "Aadhaar Number",
+            "Bank Account Details",
+            "MGNREGA Job Card Number",
+            "Swachh Bharat Mission (SBM) number",
+            "Caste/tribe certificate (if applicable)"
+        ],
+        "application_process": "Beneficiaries are identified and selected by the Gram Sabha based on SECC data. Selected beneficiaries must apply via Gram Panchayat.",
+        "persona": "rural"
+    },
+    {
+        "id": "mgnrega",
+        "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+        "name_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम",
+        "name_ta": "மகாத்மா காந்தி தேசிய ஊரக வேலைவாய்ப்பு உத்தரவாத திட்டம்",
+        "name_bn": "মহাত্মা গান্ধী জাতীয় গ্রামীণ কর্মসংস্থান গ্যারান্টি আইন",
+        "name_mr": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार हमी कायदा",
+        "description": "An employment guarantee scheme ensuring livelihood security in rural areas by providing at least 100 days of guaranteed wage employment in a financial year.",
+        "benefits": "100 days of guaranteed wage employment in a financial year to every rural household. Legal entitlement to work within 15 days of demand.",
+        "eligibility_criteria": [
+            "Must be a citizen of India.",
+            "Must be an adult (18 years or above).",
+            "Must reside in a rural area.",
+            "Must be willing to do unskilled manual work.",
+            "Any person living in rural area regardless of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank or Post Office Account Details",
+            "Passport Size Photograph",
+            "Application for Job Card at Gram Panchayat",
+            "Proof of address (voter ID or ration card)"
+        ],
+        "application_process": "Apply for a Job Card at the local Gram Panchayat. Submit a written request for work in writing to the Gram Panchayat. Employment will be provided within 15 days.",
+        "persona": "gig_worker"
+    },
+    {
+        "id": "pmuy",
+        "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+        "name_hi": "प्रधानमंत्री उज्ज्वला योजना",
+        "name_ta": "பிரதான் மந்திரி உஜ்வலா யோஜனா",
+        "name_bn": "প্রধানমন্ত্রী উজ্জ্বলা যোজনা",
+        "name_mr": "पंतप्रधान उज्ज्वला योजना",
+        "description": "Provides deposit-free LPG connections to women from below poverty line (BPL) households to protect their health and save them from cooking on chulha (wood fire).",
+        "benefits": "Free LPG connection along with the first refill and a hotplate (stove) free of cost. No security deposit needed.",
+        "eligibility_criteria": [
+            "Applicant must be a woman above 18 years of age.",
+            "Must belong to a BPL household, SC/ST, PMAY-G beneficiary, Antyodaya Anna Yojana (AAY) beneficiary, Forest dweller, Most Backward Classes (MBC), Tea/Ex-Tea Garden Tribes, or island dwellers.",
+            "No other LPG connection in the same household.",
+            "Must be a woman head of household or adult female member."
+        ],
+        "required_documents": [
+            "Aadhaar Card (of applicant and adult family members)",
+            "Ration Card or other household proof",
+            "Bank Account Details",
+            "Passport Size Photograph",
+            "BPL certificate or relevant category certificate"
+        ],
+        "application_process": "Apply at the nearest LPG distributor (LPG agency) offline or via the PMUY online portal (pmuy.gov.in).",
+        "persona": "woman"
+    },
+    {
+        "id": "ssy",
+        "name": "Sukanya Samriddhi Yojana (SSY)",
+        "name_hi": "सुकन्या समृद्धि योजना",
+        "name_ta": "சுகன்யா சம்ரிதி யோஜனா",
+        "name_bn": "সুকন্যা সমৃদ্ধি যোজনা",
+        "name_mr": "सुकन्या समृद्धी योजना",
+        "description": "A government-backed savings scheme targeted at the parents of girl children, to build a fund for her future education and marriage expenses.",
+        "benefits": "High interest rate (currently 8.2% p.a.), tax benefits under Section 80C, partial withdrawal allowed after girl turns 18 for education, maturity after 21 years.",
+        "eligibility_criteria": [
+            "Parents or legal guardians can open the account in the name of a girl child.",
+            "The girl child must be below 10 years of age at the time of account opening.",
+            "Maximum of two accounts allowed per family (one for each girl child).",
+            "Indian citizens only."
+        ],
+        "required_documents": [
+            "Birth Certificate of the girl child",
+            "Aadhaar Card of parent/guardian",
+            "PAN Card of parent/guardian (optional for some banks)",
+            "Address Proof (Voter ID, utility bill)"
+        ],
+        "application_process": "Open an account at any authorized post office or commercial bank branch with a minimum deposit of Rs. 250.",
+        "persona": "woman"
+    },
+    {
+        "id": "pm_svanidhi",
+        "name": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+        "name_hi": "पीएम स्वनिधि - पीएम स्ट्रीट वेंडर की आत्मनिर्भर निधि",
+        "name_ta": "பிரதான் மந்திரி சவ்நிதி - தெரு வியாபாரி திட்டம்",
+        "name_bn": "পিএম স্বনিধি - রাস্তার বিক্রেতার আত্মনির্ভর তহবিল",
+        "name_mr": "पीएम स्वनिधि - पंतप्रधान स्ट्रीट वेंडर आत्मनिर्भर निधी",
+        "description": "A special micro-credit facility to provide affordable working capital loans to street vendors who lost their livelihoods due to the COVID-19 lockdown or are struggling.",
+        "benefits": "Working capital loan of up to Rs. 10,000 (1st loan), Rs. 20,000 (2nd loan) and Rs. 50,000 (3rd loan). 7% interest subsidy on regular repayment. Cashback on digital transactions up to Rs. 1200/year.",
+        "eligibility_criteria": [
+            "Street vendors, hawkers, rehriwalas, thelewalas operating in urban areas or surrounding peri-urban/rural areas.",
+            "Must possess a Certificate of Vending / Identity Card issued by Urban Local Bodies (ULBs), OR a Letter of Recommendation from ULB/Town Vending Committee.",
+            "Vendors who started vending on or before March 24, 2020."
+        ],
+        "required_documents": [
+            "Aadhaar Card linked with Mobile Number",
+            "Voter ID Card",
+            "Bank Account Details",
+            "Certificate of Vending / Letter of Recommendation (LoR)",
+            "Vendor photo"
+        ],
+        "application_process": "Apply through the PM SVANidhi portal (pmsvanidhi.mohua.gov.in), CSCs, or directly at banks/MFIs with the required documents.",
+        "persona": "gig_worker"
+    },
+    {
+        "id": "pmjjby",
+        "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+        "name_hi": "प्रधानमंत्री जीवन ज्योति बीमा योजना",
+        "name_ta": "பிரதான் மந்திரி ஜீவன் ஜ்யோதி பீமா யோஜனா",
+        "name_bn": "প্রধানমন্ত্রী জীবন জ্যোতি বীমা যোজনা",
+        "name_mr": "पंतप्रधान जीवन ज्योती विमा योजना",
+        "description": "A one-year renewable life insurance scheme offering coverage for death due to any reason at a very low premium, making it accessible to the rural poor.",
+        "benefits": "Life cover of Rs. 2 lakhs payable to the nominee in case of death of the insured due to any reason. Very low premium of Rs. 436/year.",
+        "eligibility_criteria": [
+            "Individuals in the age group of 18-50 years.",
+            "Must have a savings bank account.",
+            "Must give consent to join and enable auto-debit.",
+            "Available through banks and post offices."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Account Passbook",
+            "Completed PMJJBY application form/consent form for auto-debit",
+            "Mobile number linked to bank account"
+        ],
+        "application_process": "Approach your bank or post office where you hold a savings account and submit the enrollment form with an auto-debit mandate. Premium of Rs. 436/- is auto-debited from your account annually.",
+        "persona": "general"
+    },
+    {
+        "id": "kcc",
+        "name": "Kisan Credit Card (KCC)",
+        "name_hi": "किसान क्रेडिट कार्ड",
+        "name_ta": "கிசான் கிரெடிட் கார்டு",
+        "name_bn": "কিষান ক্রেডিট কার্ড",
+        "name_mr": "किसान क्रेडिट कार्ड",
+        "description": "A credit scheme that provides farmers with timely access to credit for their agricultural needs, including short-term credit requirements for cultivation, post-harvest expenses, and allied activities.",
+        "benefits": "Credit limit based on land holding and crop pattern. Interest subvention of 2%, making the effective interest rate 4% for prompt repayers. ATM-enabled RuPay card. Up to Rs. 3 lakh at low interest.",
+        "eligibility_criteria": [
+            "All farmers — individuals or joint borrowers who are owner cultivators.",
+            "Tenant farmers, oral lessees, sharecroppers.",
+            "Self Help Groups (SHGs) or Joint Liability Groups (JLGs) of farmers.",
+            "Fishermen and animal husbandry farmers are also eligible."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Land documents (Khata/Khasra/Khatauni)",
+            "Passport size photograph",
+            "Bank account details",
+            "Identity proof (Voter ID, PAN Card)"
+        ],
+        "application_process": "Apply at the nearest bank branch (cooperative bank, regional rural bank, commercial bank) or through the PM Kisan portal. The KCC is linked to the PM-KISAN database.",
+        "persona": "farmer"
+    },
+    {
+        "id": "jsy",
+        "name": "Janani Suraksha Yojana (JSY)",
+        "name_hi": "जननी सुरक्षा योजना",
+        "name_ta": "ஜனன் சுரக்ஷா யோஜனா",
+        "name_bn": "জননী সুরক্ষা যোজনা",
+        "name_mr": "जननी सुरक्षा योजना",
+        "description": "A safe motherhood intervention under the National Health Mission (NHM), integrating cash assistance with delivery and post-delivery care to reduce maternal and neo-natal mortality.",
+        "benefits": "Cash assistance to mother: Rs. 1400 in rural areas and Rs. 1000 in urban areas (Low Performing States - LPS). Additional incentive to ASHA/health worker. Free institutional delivery at government/accredited private hospitals.",
+        "eligibility_criteria": [
+            "Pregnant women aged 19 years and above.",
+            "All women in Low Performing States (LPS) — 10 states including Uttarakhand, UP, Bihar, Jharkhand, MP, Chhattisgarh, Assam, Rajasthan, Odisha, Jammu & Kashmir.",
+            "BPL women in High Performing States (HPS).",
+            "SC/ST women in any state.",
+            "Up to two live births."
+        ],
+        "required_documents": [
+            "Aadhaar Card or any Government ID",
+            "MCH (Mother and Child Protection) Card / Antenatal card",
+            "Bank Account Details for direct benefit transfer",
+            "BPL Certificate (for HPS states)",
+            "Caste Certificate (for SC/ST)"
+        ],
+        "application_process": "Register at the nearest Sub-Health Centre, Primary Health Centre (PHC), or government hospital during pregnancy. The ASHA worker or ANM will help in registration and ensure institutional delivery.",
+        "persona": "woman"
+    }
+]

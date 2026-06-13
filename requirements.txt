@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-chroma
+langchain-google-genai
+langchain-huggingface
+chromadb
+python-dotenv
+twilio
+requests
+pydub
+python-multipart
+sentence-transformers
+google-generativeai
+deep-translator
+langdetect
