@@ -26,6 +26,20 @@ This project focuses on accessibility: users should be able to ask simple questi
 
 The FastAPI app is organized around chatbot logic, audio handling, database population, and API routing. Retrieval dependencies support a vector-backed knowledge base, while translation and messaging integrations widen access channels.
 
+## Architecture Diagram
+
+```mermaid
+flowchart TD
+  User["Citizen via Text or Voice"] --> Channel["WhatsApp or SMS Channel"]
+  Channel --> API["FastAPI Application"]
+  API --> Language["Language Detection and Translation"]
+  API --> Audio["Audio Handling"]
+  Language --> Retrieval["LangChain Retrieval Workflow"]
+  Retrieval --> VectorDB["ChromaDB Scheme Index"]
+  VectorDB --> Response["Grounded Scheme Guidance"]
+  Response --> Channel
+```
+
 ## Technology Stack
 
 - FastAPI backend with LangChain orchestration.
